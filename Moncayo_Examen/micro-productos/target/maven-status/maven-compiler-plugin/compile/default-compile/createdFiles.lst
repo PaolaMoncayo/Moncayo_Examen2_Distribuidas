@@ -1,0 +1,6 @@
+com\espe\micro_productos\MicroProductosApplication.class
+com\espe\micro_productos\services\ProductoService.class
+com\espe\micro_productos\model\entity\Producto.class
+com\espe\micro_productos\repositories\ProductoRepository.class
+com\espe\micro_productos\services\ProductoServiceImpl.class
+com\espe\micro_productos\controllers\ProductoController.class

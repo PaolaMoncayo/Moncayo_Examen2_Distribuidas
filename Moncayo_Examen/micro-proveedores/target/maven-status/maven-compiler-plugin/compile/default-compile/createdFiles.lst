@@ -1,0 +1,9 @@
+com\espe\micro_proveedores\model\Producto.class
+com\espe\micro_proveedores\services\ProveedorService.class
+com\espe\micro_proveedores\MicroProveedoresApplication.class
+com\espe\micro_proveedores\repositories\ProveedorRepository.class
+com\espe\micro_proveedores\controllers\ProveedorController.class
+com\espe\micro_proveedores\model\entity\Proveedor.class
+com\espe\micro_proveedores\model\entity\ProveedorProducto.class
+com\espe\micro_proveedores\clients\ProductoClientRest.class
+com\espe\micro_proveedores\services\ProveedorServiceImpl.class
